@@ -13,7 +13,6 @@ function App() {
       { name: 'Twitter', link: '#' },
       { name: 'Instagram', link: '#' },
     ]
-
   )
   return (
     <div className="App">
